@@ -1,5 +1,5 @@
 # sim-msgs
-Custom ROS2 message types used in Autonoma's AWSIM implementation
+Custom ROS2 message types used in Autonoma's simulator
 
 - The root repository for the vectornav_msgs can be found here: [VectorNav Driver](https://github.com/dawonn/vectornav)
 - The root repository for the novatel_oem7_msgs can be found here: [Novatel OEM7 Driver](https://github.com/novatel/novatel_oem7_driver/tree/master)
